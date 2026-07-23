@@ -61,6 +61,3 @@ Leading technical architecture and development for Brazil's premier collectibles
 
 Active contributor to open-source projects, with a focus on creating tools and languages that improve the developer experience.
 
----
-
-**Always open to collaboration and new challenges! 🚀**
